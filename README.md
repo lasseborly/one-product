@@ -1,6 +1,6 @@
 # One Product
 
-An open source e-commerce platform that allows for one thing and one thing only.
+An open source e-commerce platform that allows for :point_up: thing and :point_up_2: thing only.
 
 ~~Killing nazis~~ :moneybag: a single product.
 
